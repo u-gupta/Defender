@@ -1,5 +1,5 @@
 # Defender
-A tower defense game built using Java for phidgets using non traditional inputs and outputs to provide a more intuitive and fun experience.
+A tower defence game built using Java for phidgets using non traditional inputs and outputs to provide a more intuitive and fun experience.
 
 Compile Instructions:
 - Place all the included files in a folder called "Defender"
